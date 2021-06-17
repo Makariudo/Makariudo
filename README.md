@@ -1,1 +1,1 @@
-![Cover](https://github.com/Makariudo/Makariudo/blob/master/img/gitHub.png)
+![Cover](https://github.com/Makariudo/Makariudo/main/img/gitHub.png)
